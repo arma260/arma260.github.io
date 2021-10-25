@@ -32,7 +32,7 @@ let image2 = eImageScrollerPair2.getElementsByTagName('img')[0];         //Image
 
 //Initialising Images
 var imgSrcArray2 = new Array();
-for (let i = 0; i < 123; i++) { //starts at 0, ends at 123 (number of images)
+for (let i = 0; i < 36; i++) { //starts at 0, ends at 123 (number of images)
     imgSrcArray2[i] = new String();
     imgSrcArray2[i] = "images/pair2/image (" + (i+1) + ").gif";
 }
